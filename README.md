@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hey, I’m Nicholas
 
-<!--
-**CodedbyGod5/CodedbyGod5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Mobile & App Developer
 
-Here are some ideas to get you started:
+I build clean, scalable, and user-focused mobile applications.
+Passionate about turning ideas into functional, real-world solutions through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Focus
+	•	Mobile App Development
+	•	Cross-Platform Solutions
+	•	UI/UX Implementation
+	•	Backend Integration
+
+🛠 Tech Stack
+	•	Flutter
+	•	Dart
+        phyton 
+	•	Git & GitHub 
+    
+📈 Goals 
+Continuously improving, building impactful apps, and growing as a developer every day.
